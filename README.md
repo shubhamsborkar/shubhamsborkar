@@ -37,7 +37,11 @@ Most of the record an investor needs is public and free, but the tools that make
 
 It runs on your own computer and keeps your book, filings, the options tape, macro, commodities and your research notes in one place, with your own AI plugged in. It is free, open source and updated regularly. More at [greeksoup.ai](https://greeksoup.ai).
 
-Most of the code is written with Claude Code and other AI tools, but the investing frameworks behind it are mine, and I use it on my own research first. Feedback and ideas are always welcome.
+**[Options tape for long-term investors](https://github.com/shubhamsborkar/option-tape-public-repo)**
+
+Takes a daily snapshot of the options on the stocks you own, from free end-of-day data, and surfaces contracts where activity or open interest looks unusual against their own history. It is a prompt for research, never a trade call, and it comes with a written plan for how its flags get judged over time.
+
+Most of the code is written with Claude Code and other AI tools, but the investing frameworks behind it are mine, and I use these tools on my own research first. Feedback and ideas are always welcome.
 
 ---
 
