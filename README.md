@@ -1,8 +1,10 @@
 <h1 align="center">Hi there, I am Shubham Borkar 👋</h1>
 
-<h3 align="center">Founder of Shikshan Nivesh | Equity Investor & Builder of AI Research Systems</h3>
+<p align="center"><img src="assets/shubham-photo.jpg" alt="Shubham Borkar" width="220"></p>
 
-<p align="center"><b>Building free, open-source AI tools that let one investor do the research a whole desk used to do.</b></p>
+<h3 align="center">Founder of GreekSoup.ai and Shikshan Nivesh | Equity Investor & AI Researcher</h3>
+
+<p align="center"><b>Building free, open-source AI tools for investment research.</b></p>
 
 <p align="center">
   <a href="https://ai.shikshannivesh.com"><img src="https://img.shields.io/badge/Substack-Alpha%20with%20AI-FF6719?logo=substack&logoColor=white" alt="Alpha with AI"></a>
