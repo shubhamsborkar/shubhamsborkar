@@ -33,8 +33,13 @@ Most of the record an investor needs is public and free, but the tools that make
 
 ## Projects
 
-| Project | What it does |
-|---|---|
+**[GreekSoup: the one-person equity research desk](https://github.com/shubhamsborkar/greeksoup)**
+
+It runs on your own computer and keeps your book, filings, the options tape, macro, commodities and your research notes in one place, with your own AI plugged in. It is free, open source and updated regularly. More at [greeksoup.ai](https://greeksoup.ai).
+
+Most of the code is written with Claude Code and other AI tools, but the investing frameworks behind it are mine, and I use it on my own research first. Feedback and ideas are always welcome.
+
+---|---|
 | **[GreekSoup](https://github.com/shubhamsborkar/greeksoup)** | The one-person equity research desk. It runs on your own computer and keeps your book, filings, the options tape, macro, commodities and your research notes in one place, with your own AI plugged in. [greeksoup.ai](https://greeksoup.ai) |
 | **[options-the-disagreement-detector](https://github.com/shubhamsborkar/options-the-disagreement-detector)** | Checks whether the options market disagrees with your long-term view on a stock you own |
 | **[calendar-tell](https://github.com/shubhamsborkar/calendar-tell)** | Reads whether a company is acting confident or scared after its results |
@@ -62,7 +67,7 @@ I write about all of this at **[Alpha with AI](https://ai.shikshannivesh.com)**,
 
 ## Support My Work
 
-Everything here is free. If one of these tools has helped your research, you can support the work, and it goes into building and updating them.
+Everything here is free. If my work has helped your research, you can support the work, and it goes into building and updating these tools.
 
 <a href="https://buy.stripe.com/9B67sNfXa9wBfabbti6Vq00"><img src="https://img.shields.io/badge/Support%20my%20work-Stripe-FFDD00?style=for-the-badge&logo=stripe&logoColor=black" alt="Support my work"></a>
 
