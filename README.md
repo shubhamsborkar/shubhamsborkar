@@ -2,7 +2,7 @@
 
 <p align="center"><img src="assets/shubham-photo.jpg" alt="Shubham Borkar" width="220"></p>
 
-<h3 align="center">Founder of GreekSoup.ai and Shikshan Nivesh | Equity Investor & AI Researcher</h3>
+<h3 align="center">Founder of GreekSoup.ai and Shikshan Nivesh | Equity Investor & Researcher</h3>
 
 <p align="center"><b>Building free, open-source AI tools for investment research.</b></p>
 
