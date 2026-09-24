@@ -41,7 +41,7 @@ It runs on your own computer and keeps your book, filings, the options tape, mac
 
 Takes a daily snapshot of the options on the stocks you own, from free end-of-day data, and surfaces contracts where activity or open interest looks unusual against their own history. It is a prompt for research, never a trade call, and it comes with a written plan for how its flags get judged over time.
 
-Most of the code is written with Claude Code and other AI tools, but the investing frameworks behind it are mine, and I use these tools on my own research first. Feedback and ideas are always welcome.
+Most of the code is written with Claude Code, Codex and Grok Build, but the investing frameworks behind it are mine, and I use these tools on my own research first. Feedback and ideas are always welcome.
 
 ---
 
@@ -53,8 +53,8 @@ I write about all of this at **[Alpha with AI](https://ai.shikshannivesh.com)**,
 
 ## Tools I Work With
 
-- **AI:** Claude Code, Claude Cowork, ChatGPT, Grok, NotebookLM
-- **Data:** SEC EDGAR (XBRL, Form 4, 13F), CBOE delayed options chains, congressional trade filings
+- **AI:** Claude Code, Codex, Grok Build, Claude Cowork, NotebookLM
+- **Data:** SEC EDGAR (XBRL, Form 4, 13F), NSE corporate filings (results, shareholding patterns, insider trades, bulk and block deals), FII and DII flows, congressional trade filings
 - **Build:** Python, Obsidian, GitHub Actions
 
 ---
