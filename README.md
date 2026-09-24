@@ -53,7 +53,7 @@ I write about all of this at **[Alpha with AI](https://ai.shikshannivesh.com)**,
 
 ## Tools I Work With
 
-- **AI:** Claude Code, Codex, Grok Build, Claude Cowork, NotebookLM
+- **AI:** Claude Code, Codex, Grok Build, NotebookLM
 - **Data:** SEC EDGAR (XBRL, Form 4, 13F), NSE corporate filings (results, shareholding patterns, insider trades, bulk and block deals), FII and DII flows, congressional trade filings
 - **Build:** Python, Obsidian, GitHub Actions
 
